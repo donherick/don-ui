@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89b642f2-58c1-4176-acae-ccd1b8a68286" name="Changes" comment="chore: turborepo" />
+    <list default="true" id="89b642f2-58c1-4176-acae-ccd1b8a68286" name="Changes" comment="chore: turborepo">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/packages/docs" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,7 +67,8 @@
       <workItem from="1668635572240" duration="73000" />
       <workItem from="1668635659417" duration="70000" />
       <workItem from="1668635739471" duration="302000" />
-      <workItem from="1668636044609" duration="1491000" />
+      <workItem from="1668636044609" duration="2076000" />
+      <workItem from="1668638126714" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="chore: turborepo">
       <created>1668620775946</created>
