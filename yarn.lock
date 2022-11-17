@@ -1411,6 +1411,38 @@
   "resolved" "https://registry.npmjs.org/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz"
   "version" "0.5.7"
 
+"@don-ui/docs@file:/Users/herick/Documents/projects/design-system/don-ui/packages/docs":
+  "resolved" "file:packages/docs"
+  "version" "0.0.1"
+  dependencies:
+    "@don-ui/eslint-config" "*"
+    "@don-ui/react" "*"
+    "@don-ui/tokens" "*"
+    "@don-ui/ts-config" "*"
+    "react" "^18.2.0"
+    "react-dom" "^18.2.0"
+
+"@don-ui/eslint-config@*", "@don-ui/eslint-config@file:/Users/herick/Documents/projects/design-system/don-ui/packages/eslint-config":
+  "resolved" "file:packages/eslint-config"
+  "version" "0.0.1"
+
+"@don-ui/react@*", "@don-ui/react@file:/Users/herick/Documents/projects/design-system/don-ui/packages/react":
+  "resolved" "file:packages/react"
+  "version" "0.0.1"
+  dependencies:
+    "@radix-ui/react-avatar" "^1.0.0"
+    "@radix-ui/react-checkbox" "^1.0.0"
+    "@stitches/react" "^1.2.8"
+    "phosphor-react" "^1.4.1"
+
+"@don-ui/tokens@*", "@don-ui/tokens@file:/Users/herick/Documents/projects/design-system/don-ui/packages/tokens":
+  "resolved" "file:packages/tokens"
+  "version" "0.0.1"
+
+"@don-ui/ts-config@*", "@don-ui/ts-config@file:/Users/herick/Documents/projects/design-system/don-ui/packages/ts-config":
+  "resolved" "file:packages/ts-config"
+  "version" "0.0.1"
+
 "@eslint/eslintrc@^1.0.5", "@eslint/eslintrc@^1.3.3":
   "integrity" "sha512-uj3pT6Mg+3t39fvLrj8iuCIJ38zKO9FpGtJ4BBJebJhEwjoT+KLVNCcHT5QC9NGRIEi7fZ0ZR8YRb884auB4Lg=="
   "resolved" "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-1.3.3.tgz"
@@ -2743,34 +2775,6 @@
     "qs" "^6.10.0"
     "regenerator-runtime" "^0.13.7"
     "resolve-from" "^5.0.0"
-
-"@don-ui/docs@file:/Users/herick/Documents/projects/design-system/don-ui/packages/docs":
-  "resolved" "file:packages/docs"
-  "version" "1.0.0"
-  dependencies:
-    "react" "^18.2.0"
-    "react-dom" "^18.2.0"
-
-"@don-ui/eslint-config@*", "@don-ui/eslint-config@file:/Users/herick/Documents/projects/design-system/don-ui/packages/eslint-config":
-  "resolved" "file:packages/eslint-config"
-  "version" "1.0.0"
-
-"@don-ui/react@*", "@don-ui/react@file:/Users/herick/Documents/projects/design-system/don-ui/packages/react":
-  "resolved" "file:packages/react"
-  "version" "1.0.0"
-  dependencies:
-    "@radix-ui/react-avatar" "^1.0.0"
-    "@radix-ui/react-checkbox" "^1.0.0"
-    "@stitches/react" "^1.2.8"
-    "phosphor-react" "^1.4.1"
-
-"@don-ui/tokens@*", "@don-ui/tokens@file:/Users/herick/Documents/projects/design-system/don-ui/packages/tokens":
-  "resolved" "file:packages/tokens"
-  "version" "1.0.0"
-
-"@don-ui/ts-config@*", "@don-ui/ts-config@file:/Users/herick/Documents/projects/design-system/don-ui/packages/ts-config":
-  "resolved" "file:packages/ts-config"
-  "version" "1.0.0"
 
 "@testing-library/dom@^8.3.0":
   "integrity" "sha512-6YWYPPpxG3e/xOo6HIWwB/58HukkwIVTOaZ0VwdMVjhRUX/01E4FtQbck9GazOOj7MXHc5RBzMrU86iBJHbI+A=="
